@@ -9,4 +9,6 @@ multiplyAndDivide(100, 100);
 multiplyAndDivide(5,0); 
 multiplyAndDivide(45,173)
 multiplyAndDivide(1,1000);
+;
+
 
