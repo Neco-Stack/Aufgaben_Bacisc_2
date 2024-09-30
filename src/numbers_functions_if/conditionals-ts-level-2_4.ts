@@ -5,7 +5,7 @@ let x : number = Math.floor(Math.random() * 77);
 let y : number = Math.floor(Math.random() *77);
 
 
-// Deklarierung einer Funktion, die zwei Zufallszahlen genereriert- mit Nachricht je nach Ergebnis in Konsole
+// Deklarierung einer Funktion, die zwei Zufallszahlen genereriert- mit Nachricht in Konsole, 3 Möglichkeiten mit Conditionals  
 function randomLotto(x : number, y : number){
     if (x == y){
         console.log("was für zufall");
