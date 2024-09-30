@@ -4,4 +4,4 @@ function showHero (heroName:string, heroPower:string, heroEnemy:string){
     let enemyOutput: string = "Sein/ihr größte/r Gegner:in ist: " + heroEnemy;
     console.log(nameOutput + powerOutput + enemyOutput);
 }
-showHero("Batman" , "Fliegen" , "Joker");
+showHero("Batman" , "Willsenskraft" , "Joker");
