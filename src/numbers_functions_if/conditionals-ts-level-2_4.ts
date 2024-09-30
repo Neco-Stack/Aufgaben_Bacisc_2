@@ -17,6 +17,7 @@ function randomLotto(x : number, y : number){
 }
 randomLotto(x,y)
 
+// Now lets try it with Switch; 
 
 
 
