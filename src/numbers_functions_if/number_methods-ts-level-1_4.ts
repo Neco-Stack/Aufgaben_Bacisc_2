@@ -25,4 +25,3 @@ console.log(num7.toFixed(2));
 
 
 
-
