@@ -14,7 +14,7 @@ switch (userChoice + compChoice){
     case    "steinschere":
         console.log("USER WINS");
 }
-console.log("hello");
+console.log();
 
 
 // ein guter Use Case für Switch ist zB das Spiel Schere, Stein, Papier
